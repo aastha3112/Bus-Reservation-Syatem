@@ -1,0 +1,90 @@
+
+
+
+
+
+                        1.Install
+                        2.Reservation
+                        3.Show
+                        4.Buses Available.
+                        5.Exit
+                        Enter your choice:-> 1
+Enter bus no: 2002
+
+Enter Driver's name: jake
+
+Arrival time: 3am
+
+Departure: 6am
+
+From:                   jaipur
+
+To:                     surat
+
+
+
+
+
+                        1.Install
+                        2.Reservation
+                        3.Show
+                        4.Buses Available.
+                        5.Exit
+                        Enter your choice:-> 2
+Bus no: 3003
+Enter correct bus no.
+Bus no: 2002
+
+Seat Number: 13
+Enter passanger's name: emily
+
+
+
+
+
+                        1.Install
+                        2.Reservation
+                        3.Show
+                        4.Buses Available.
+                        5.Exit
+                        Enter your choice:-> 4
+********************************************************************************Bus no:         2002
+Driver:         jake            Arrival time:   3am     Departure Time:         6am
+From:           jaipur          To:                     surat
+********************************************************************************________________________________________________________________________________
+
+
+
+
+                        1.Install
+                        2.Reservation
+                        3.Show
+                        4.Buses Available.
+                        5.Exit
+                        Enter your choice:-> 3
+Enter bus no: 2002
+********************************************************************************Bus no:         2002
+Driver:         jake            Arrival time:   3am     Departure time:6am
+From:           jaipur          To:             surat
+********************************************************************************
+    1.     Empty    2.     Empty    3.     Empty    4.     Empty
+    5.     Empty    6.     Empty    7.     Empty    8.     Empty
+    9.     Empty   10.     Empty   11.     Empty   12.     Empty
+   13.     emily   14.     Empty   15.     Empty   16.     Empty
+   17.     Empty   18.     Empty   19.     Empty   20.     Empty
+   21.     Empty   22.     Empty   23.     Empty   24.     Empty
+   25.     Empty   26.     Empty   27.     Empty   28.     Empty
+   29.     Empty   30.     Empty   31.     Empty   32.     Empty
+
+There are 31 seats empty in Bus No: 2002
+The seat no 13 is reserved for emily.
+
+
+
+
+                        1.Install
+                        2.Reservation
+                        3.Show
+                        4.Buses Available.
+                        5.Exit
+                        Enter your choice:->
